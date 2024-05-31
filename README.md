@@ -33,4 +33,6 @@ Excel
 Построен шаблон рассчёта плеч метрик: насколько метрику необходимо увеличить, чтобы увеличить прибыль на 25%.
 
 
+<img src="https://github.com/Olegoko/Unit-economy/blob/main/Плечи%20метрик.png" width="1200" alt="Image description">
+
 
